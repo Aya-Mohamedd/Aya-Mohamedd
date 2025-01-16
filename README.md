@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aya-Mohamedd
 - 👩‍🎓 Biomedical Informatics class of 2023 , Mansoura University
-- 👀 I’m interested in Biomedical Informatics
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me aya.mohamedd2812@gmail.com
+- 👀 I’m interested in AI & Data Science
+- 🌱 I’m currently learning Data analysis , Power BI , Tableau
+- 📫 How to reach me aya.mohamedd1228@gmail.com
