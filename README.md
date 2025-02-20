@@ -51,8 +51,8 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## 🌐 **Languages**  
-- **Arabic**: Native  
-- **English**: Conversational  
+- **Arabic**: Mother Tongue  
+- **English**: Intermediate  
 
 ---
 ## 👤 **Contact Me**
