@@ -8,6 +8,10 @@ Data-driven AI Engineer specializing in the intersection of Machine Learning and
 
 ---
 
+<p align = "Left"> <a href=""> <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a></p>
+
+
+---
 ## 🛠️ **Technical Skills**  
 Here are some of the tools and technologies I work with:  
 ![SnowflakeSchema](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
@@ -95,8 +99,6 @@ Here are some of the tools and technologies I work with:
 
 ---
 ## 👤 **Contact Me**
-<p align = "Left"> <a href=""> <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a></p>
-
 [![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](mailto:aya.m.hassanin@gmail.com)
 [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/aya-mohamedd/)
 [![Whatsapp](https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp1.svg)](https://wa.me/qr/2WEH3VW2KFIWE1)
