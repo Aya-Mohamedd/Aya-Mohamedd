@@ -95,7 +95,8 @@ Here are some of the tools and technologies I work with:
 
 ---
 ## 👤 **Contact Me**
-<p align = "Left"> <a href="https://drive.google.com/drive/folders/1cMFhLCLeu1WX0o57vI_0qSetC0188pj1?usp=sharing"> <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a></p>
+<p align = "Left"> <a href=""> <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a></p>
+
 [![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](mailto:aya.m.hassanin@gmail.com)
 [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/aya-mohamedd/)
 [![Whatsapp](https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp1.svg)](https://wa.me/qr/2WEH3VW2KFIWE1)
