@@ -92,7 +92,7 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## 🌐 **Languages**  
-- **Arabic**: Mother Tongue  
+- **Arabic**: Native Language 
 - **English**: Intermediate  
 
 ---
