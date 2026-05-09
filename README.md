@@ -1,16 +1,16 @@
 # Aya Mohamed Mahmoud  
-### BI Specialist | Power BI Developer | Data Analyst
+### AI Engineer | Microsoft Certified Power BI Data Analyst | Data Scientist
 
 ---
 
 ## 👋 **Profile**  
-With a strong passion for data analysis, I utilize Power BI, SQL, and Python to transform data into actionable insights. My foundation in programming and databases fuels my drive to help organizations leverage data for smarter, more informed decision-making.
+Data-driven AI Engineer specializing in the intersection of Machine Learning and Cloud Infrastructure. With a background in Business Intelligence, the focus is on building scalable, AI-powered systems—from fine-tuning LLMs (Llama, Gemini) to deploying automated data pipelines on AWS. Passionate about turning complex data into intelligent, autonomous solutions.
 
 ---
 
 ## 🛠️ **Technical Skills**  
 Here are some of the tools and technologies I work with:  
-
+![LLama](https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white)
 ![SnowflakeSchema](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white)
@@ -51,6 +51,10 @@ Here are some of the tools and technologies I work with:
 
 ## 💼 **Internships** 
 
+### **Data Analytics Job Simulation**
+#### **Deloitte Australia**
+- Developed cloud-based data models and visualizations using Azure, Power BI, and Python.
+
 ### **Power BI Development, Intensive Training Program (ITP)**
 #### **Information Technology Institute (ITI)**
 - Focusing on data visualization, analytics, and business intelligence using Power BI
@@ -58,7 +62,7 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## 🎓 **Education**  
-
+ 
 ### **Faculty of Computer & Information Sciences, Mansoura University**  
 - **Degree**: Bachelor's in Computer Science
 - **Major**: Medical Informatics
@@ -69,10 +73,19 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## 📜 **Certificates**  
-- Artificial Intelligence (AI) | Huawei Egyptian Talent Academy Track-NTI 
-- Database Fundamentals | MaharaTech-ITI Mooca 
-- Python Programming Basics | MaharaTech-ITI Mooca
-
+- Generative AI Foundations | AWS Academy Graduate 
+- Data Engineering | AWS Academy Graduate 
+- Machine Learning for Natural Language Processing | AWS Academy Graduate 
+- Python for Data Science, AI & Development | IBM 
+- Power BI Data Analyst Associate | Microsoft Certified 
+- Data Analytics Simulation Job | Deloitte Australia 
+- Intermediate Data Visualization with Seaborn | Data Camp 
+- Introduction to Data Visualization with Seaborn | Data Camp 
+- Data Manipulation with Pandas | Data Camp 
+- ALX AICE AI Career Essentials Program 
+- Artificial Intelligence (AI) Huawei Egyptian Talent Academy Track | NTI 
+- Database Fundamentals | MaharaTech IT Mooca 
+- Python Programming Basics | MaharaTech ITI Mooca
 
 ---
 
@@ -82,5 +95,6 @@ Here are some of the tools and technologies I work with:
 
 ---
 ## 👤 **Contact Me**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aya.mohamedd1228@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-mohamedd/)
+[![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](mailto:aya.m.hassanin@gmail.com)
+[![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/aya-mohamedd/)
+[![Whatsapp](https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp1.svg)](https://wa.me/qr/2WEH3VW2KFIWE1)
