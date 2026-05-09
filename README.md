@@ -11,9 +11,9 @@ With a strong passion for data analysis, I utilize Power BI, SQL, and Python to 
 ## 🛠️ **Technical Skills**  
 Here are some of the tools and technologies I work with:  
 
-![AWS](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws1.svg)
-![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
-![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![SnowflakeSchema](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
