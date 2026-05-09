@@ -72,7 +72,7 @@ Here are some of the tools and technologies I work with:
   - Year Of Graduation:  2023
 ---
 
-## 📜 **Certificates**  
+## 📜 **Certificates**  (https://drive.google.com/drive/folders/11KdgNMtEKjUuSGjgIETLZiNY4vktJKXd?usp=sharing)
 - Generative AI Foundations | AWS Academy Graduate 
 - Data Engineering | AWS Academy Graduate 
 - Machine Learning for Natural Language Processing | AWS Academy Graduate 
