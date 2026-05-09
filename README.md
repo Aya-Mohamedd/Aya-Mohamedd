@@ -6,12 +6,10 @@
 ## 👋 **Profile**  
 Data-driven AI Engineer specializing in the intersection of Machine Learning and Cloud Infrastructure. With a background in Business Intelligence, the focus is on building scalable, AI-powered systems—from fine-tuning LLMs (Llama, Gemini) to deploying automated data pipelines on AWS. Passionate about turning complex data into intelligent, autonomous solutions.
 
----
 
 <p align = "Left"> <a href=""> <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a></p>
 
 
----
 ## 🛠️ **Technical Skills**  
 Here are some of the tools and technologies I work with:  
 ![SnowflakeSchema](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
